@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Gothic&display=swap');
+a, div{
+ font-family: 'Nanum Gothic', sans-serif;
+  font-size: 100px;
+}
+
+body {
+  background-color: #FFFFF0
+}
+.box{
+  background-color: none;
+  width:300px;
+  margin: 50px auto;
+  text-align: center;
+}
+.box2 {
+ background-color: none;
+ width:300px;
+ margin: 50px auto;
+ text-align: center;
+ font-size: 25px;
+}
+.back {
+  position: absolute;
+  top:-50px;
+  left: 20px;
+}
+.ct {
+  text-align: center;
+  border-radius: 20px;
+  font-size: 10px;
+}
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Gothic&display=swap');
+p{
+ font-family: 'Nanum Gothic', sans-serif;
+ font-size: 40px;
+}
+span {
+  font-family: 'Nanum Gothic', sans-serif;
+  font-size: 20px;
+}
+.본문내용 {
+  border: 2px solid gray;
+  font-size: 40px;
+}
+.본문내용3 {
+  font-size: 20px;
+}
